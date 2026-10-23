@@ -1,0 +1,4 @@
+version: 1
+require_human_approval:
+  must_cover_head: true
+  on_stale_only: warn
